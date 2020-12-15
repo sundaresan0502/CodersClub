@@ -3,7 +3,9 @@ Codersclub is an intelligent platform to automate programming assignments on the
 
 Demo:
 This Demo is For Application signup and login
-![Demo]()
+
+![Demo](https://github.com/Sundaresan0502/CodersClub/blob/main/Codersclub_login_demo.gif)
+
 Requirements:
 * PHP 
 * MySQL
